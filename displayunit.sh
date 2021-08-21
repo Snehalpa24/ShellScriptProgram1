@@ -27,4 +27,5 @@ then
 	echo "Crore"
 else
 	echo "Please enter number like 1,10,100,1000,etc upto 10000000"
+	echo "enter number "
 fi
